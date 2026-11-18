@@ -17,5 +17,7 @@ Password Cracking 92.9%
 Scanning & Reconnaissance: 46.7%
 Web Application: 0.0%
 
-Comments:\n
+Comments:
 This was my very first CTF I have participated in. I enjoyed the preparation and the problems that were put in front of me. My goal was to get to over 70% completion of the entire individual event and considering my background I am quite happy with my placement. I will also comment that I spent a little over 12 hours over the 50 hour event to get to the results I am displaying. The reason I didn't spend more time was because I was sick during the event and explains why Scanning & Reconnaissance, Enumeration & Exploitation, and Web Application had low or no completion since I stopped once I get to my goal of over 70% completion.
+
+Official Report: https://cyberskyline.com/report/PCFWM5V18FDH
